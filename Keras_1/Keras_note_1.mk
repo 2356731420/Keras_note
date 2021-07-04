@@ -1,6 +1,6 @@
-# 回归训练
+#回归训练
 
-## 导入 Numpy 数据包和 Keras 包
+##导入 Numpy 数据包和 Keras 包
 
 ```python
 import numpy as np
@@ -10,7 +10,7 @@ from keras.layers import Dense
 import matplotlib.pyplot as plt
 ```
 
-## 创建数据集
+##创建数据集
 
 ```python
 X = np.linspace(-1,1,900)
