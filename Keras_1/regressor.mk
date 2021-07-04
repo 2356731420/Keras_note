@@ -74,3 +74,5 @@ plt.scatter(X_test,Y_test)
 plt.plot(X_test,Y_perd)
 plt.show()
 ```
+
+所以代码均来自莫烦python
